@@ -1,1 +1,1 @@
-# genai
+# This repository contains training materials, raw files and python  notebook scripts related to generative AI, Vector Datbases, Large Language Models (LLMs), LangChain and Retrieval Augmented Generation (RAG).
